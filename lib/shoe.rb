@@ -1,1 +1,6 @@
-class Shoe(brand)
+class Shoe
+  
+  
+  initialize(brand)
+  
+end
